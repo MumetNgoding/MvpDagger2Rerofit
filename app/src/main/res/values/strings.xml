@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvpDagger2Rerofit</string>
+    <string name="fragment_about_tag">About Fragment</string>
+    <string name="fragment_list_tag">List Fragment</string>
+
+    <string name="info">Info</string>
+    <string name="about_text">
+       Hello, App Has Builded By Nugroho,, Thanks
+    </string>
+</resources>
